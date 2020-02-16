@@ -9,7 +9,8 @@ class Dog
     @age = age 
   end 
   
-  def save 
+  def all
+    
     
   end 
     
